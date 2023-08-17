@@ -6,7 +6,7 @@
 <br>
 ![pool-payments](https://github.com/cristianvsl/SatoxCoin-Pool-KawPow/assets/74607759/1fdf15a3-d35d-490e-addf-85ee47b31249)
 <br>
-![get-started](https://github.com/cristianvsl/SatoxCoin-Pool-KawPow/assets/74607759/0e455219-bfec-4cee-ba8f-149a7a541f6b)
+![get-started](https://github.com/cristianvsl/SatoxCoin-Pool-KawPow/assets/74607759/2c92f4b4-5475-4d6d-a171-9628285cc76d)
 <br>
 
 Supporting all KawPow algo coins.
